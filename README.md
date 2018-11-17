@@ -1,1 +1,1 @@
-# pharmahackathon
+# Pharmahackathon 2018
